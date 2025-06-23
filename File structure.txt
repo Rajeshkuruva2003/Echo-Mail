@@ -1,3 +1,0 @@
-echo_mail/
-├── echo_mail.py        # Main application script
-├── README.md           # This file
